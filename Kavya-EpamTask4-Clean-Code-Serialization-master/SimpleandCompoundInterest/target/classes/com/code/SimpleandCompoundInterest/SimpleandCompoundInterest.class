@@ -1,0 +1,10 @@
+Êþº¾   1   <com/code/SimpleandCompoundInterest/SimpleandCompoundInterest  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this >Lcom/code/SimpleandCompoundInterest/SimpleandCompoundInterest; simpleInterest (DDD)D@Y       	principal D rate time compoundInterest
+    java/lang/Math   pow (DD)D 
+SourceFile SimpleandCompoundInterest.java !               /     *· ±    
+                 
+          S     ')kk o¯    
+           *      
+                            Y     ') oc¸ gk¯    
+           *      
+                          
